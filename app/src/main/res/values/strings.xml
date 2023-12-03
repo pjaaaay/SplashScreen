@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Books Galore </string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="second">Seven Husbands</string>
+    <string name="first">Dead poets society</string>
+    <string name="third"> Briefly gorgeous</string>
+    <string name="fourth">Half of a yellow sun</string>
+    <string name="fifth">Americanah</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+    <string name="myProfile">My Profile</string>
+    <string name="profile">Profile</string>
+    <string name="person">Mark Adrian</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_fourth_fragment">Hello fourth fragment</string>
+    <string name="hello_fifth_fragment">Hello fifth fragment</string>
+    <string name="hello_six_fragment">Hello six fragment</string>
+    <string name="employerimage">employerImage</string>
+    <string name="employees">26 Employees\n</string>
+    <string name="name">Name\n</string>
+    <string name="email">Email\n</string>
+    <string name="date">Date of Birth</string>
+    <string name="job">Role</string>
+    <string name="role">House Manager</string>
+    <string name="DOB">Dec-16-2001</string>
+    <string name="email_input">markadrian@gmail.com</string>
+    <string name="save">Save</string>
+    <string name="contentdesc">An image</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="calendar">Calendar</string>
+    <string name="inviteFriend">Invite a friend</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="notification">Notifications\n</string>
+    <string name="tasks">2653 Tasks completed</string>
+    <string name="edit_employee_profile">Edit Profile</string>
+    <string name="task">Task\n</string>
+    <string name="edit">Edit</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="john">John Kamau</string>
+    <string name="chanai">Paul Chanai\n</string>
+    <string name="mary">Mary Muthoni</string>
+    <string name="frank">Frank Mutuma</string>
+    <string name="teresa">Teresa Awinja</string>
+    <string name="fridah">Fridah Kyalo</string>
+    <string name="fridah_mail_input">fridakyalo@gmail.com</string>
+    <string name="employee">Employees</string>
+</resources>

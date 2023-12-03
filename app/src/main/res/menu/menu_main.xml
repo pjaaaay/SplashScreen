@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.splashscreen.MainActivity">
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/home"
+        />
+    <item
+        android:id="@+id/calendar"
+        android:title="@string/calendar"
+        android:icon="@drawable/calendar_nav"
+         />
+    <item
+        android:id="@+id/profile"
+        android:title="@string/profile"
+        android:icon="@drawable/person"
+         />
+</menu>
